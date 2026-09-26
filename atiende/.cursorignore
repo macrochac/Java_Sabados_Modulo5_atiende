@@ -1,0 +1,6 @@
+# Secretos: el agente nunca debe leerlos
+**/secrets.properties
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
